@@ -21,4 +21,4 @@ I build backend services and occasionally tinker with AI agents.
 - Design patterns and software craftsmanship
 - Writing readable, maintainable code
 
-Nothing fancy, just writing code that makes sense.
+Still learning, always building.
