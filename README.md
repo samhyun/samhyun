@@ -5,16 +5,17 @@ Java · Kotlin · Spring · AI Agent
 
 ---
 
-### Now
-- LG에너지솔루션 글로벌 HVAC AI 챗봇 플랫폼 — 아키텍처 설계부터 개발까지
-  Google ADK 멀티 에이전트 · Spring WebFlux · GCP/AWS · Terraform
-- 멀티 에이전트 · RAG 시스템 개인 프로젝트
-
 ### Built
+- **HVAC AI 챗봇 플랫폼** (LG에너지솔루션) — Google ADK 멀티 에이전트, Spring WebFlux, GCP/AWS, Terraform · 아키텍처 설계부터 개발까지
 - **AI Agent** — Google ADK · LangChain4j 멀티 에이전트, RAG (Milvus, pgvector)
 - **Backend Infra** — 사내 공용 API 문서 서버, Maven Repository, Spring Cloud Config
 - **Services** — MusicSharesJP, TV 광고 플랫폼, e커머스
 - **TechLead** — 백엔드 팀 리딩, 아키텍처 설계, 코드 리뷰 문화
+
+### Exploring
+- 멀티 에이전트 챗봇 아키텍처 — Google ADK 기반 실험
+- RAG 시스템 — Milvus, pgvector 비교 및 retrieval 전략
+- 이력서 분석 도구 — LLM 활용 개인 프로젝트
 
 ### Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
